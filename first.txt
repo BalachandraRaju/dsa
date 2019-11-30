@@ -1,2 +1,0 @@
-first file
-modified first.txt after adding it with git add
